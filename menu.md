@@ -1,7 +1,9 @@
 Matricola: 1144724
 
-[Primavera](primavera.md)
+<h1>Panini</h1>
 
-[Vegetariano](vegetariano.md)
+[Primavera](panini/primavera.md)
+
+[Vegetariano](panini/vegetariano.md)
 
 Paninoteca Padovana
